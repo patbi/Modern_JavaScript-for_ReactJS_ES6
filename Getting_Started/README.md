@@ -120,7 +120,7 @@ Example:
 
 	function greetings(name) {
 		return `Welcome ${name}`
-	}ome ${name}
+	}
 
 	const mGreetings = (name, age) => {
 		return `Welcome ${name} ${age}`
